@@ -249,7 +249,7 @@
 - Setting up the gitlab-ci pipeline
 - Integration with third party systems (Basic Auth, Mutual TLS)
 
-**Environment: ** Java 11, Gradle, Spring Boot 2, Oracle12c, Redis, Redis Streams, Netty, Project Reactor, Lombok, Docker, Docker-compose, TestContainers, AWS, AWS Cloudformation, Troposhere, Packer, Ansible
+**Environment:** Java 11, Gradle, Spring Boot 2, Oracle12c, Redis, Redis Streams, Netty, Project Reactor, Lombok, Docker, Docker-compose, TestContainers, AWS, AWS Cloudformation, Troposhere, Packer, Ansible
 
 #### PSD2 Hub
 
