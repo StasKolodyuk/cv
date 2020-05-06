@@ -79,7 +79,7 @@
 - Created maven+grunt pipeline for running e2e tests
 - Created Intellij Idea Plugin for Hot-Swapping resources
 
-**Environment: **Oracle 11G, Mavel, Grunt, Intellij Idea, Git (Stash), Jenkins, Sonar, Chrome Dev Tools, Selenium, Spring, Hibernate, REST Services (Apache CXF), AngularJS, Protractor
+**Environment:** Oracle 11G, Mavel, Grunt, Intellij Idea, Git (Stash), Jenkins, Sonar, Chrome Dev Tools, Selenium, Spring, Hibernate, REST Services (Apache CXF), AngularJS, Protractor
 
 #### Green Team Apps
 
@@ -139,7 +139,7 @@
 - Created secured by apikey, documented via Swagger API Gateway using Apigee Platform
 - REST API development
 
-**Environment: **Oracle 11G, Apigee, Intellij Idea, Maven, Jenkins, Sonar, Chef, Git(Bitbucket), AppDynamics, Rally, Spring, Hibernate, REST Services and Clients (Spring MVC), SOAP Clients (Apache CXF), Apache Camel, Swagger, Java 8, Spring Boot
+**Environment:** Oracle 11G, Apigee, Intellij Idea, Maven, Jenkins, Sonar, Chef, Git(Bitbucket), AppDynamics, Rally, Spring, Hibernate, REST Services and Clients (Spring MVC), SOAP Clients (Apache CXF), Apache Camel, Swagger, Java 8, Spring Boot
 
 #### Enhanced Member Profile (EMP) & Hotel Comment Admin Tool (HCAT)
 
@@ -171,7 +171,7 @@
 
 - Direct mailing and oral communication with customer.
 
-**Environment: **Oracle 11G, Intellij Idea, Bash Scripting, Maven, Jenkins, Sonar, TC-Server, VisualVM, Chef, Git(Bitbucket), Chrome Dev Tools, AppDynamics, Rallly, Spring, Hibernate, REST Services and Clients (Apache CXF), SOAP Clients (Apache CXF), JMX, Swagger, Java 8, Groovy, HTML & CSS & Angular JS, Yarn, Webpack, Bash Scripting
+**Environment:** Oracle 11G, Intellij Idea, Bash Scripting, Maven, Jenkins, Sonar, TC-Server, VisualVM, Chef, Git(Bitbucket), Chrome Dev Tools, AppDynamics, Rallly, Spring, Hibernate, REST Services and Clients (Apache CXF), SOAP Clients (Apache CXF), JMX, Swagger, Java 8, Groovy, HTML & CSS & Angular JS, Yarn, Webpack, Bash Scripting
 
 #### Traces Application
 
@@ -199,7 +199,7 @@
 
 - Direct mailing and oral communication with customer.
 
-**Environment: **Oracle 11G, Intellij Idea, Maven, Jenkins, A (ActiveMQ command-line client), Sonar, VisualVM, JConsole, Chef, Git(Bitbucket), AppDynamics, Rallly, Spring, Hibernate, REST Services and Clients (Spring MVC), SOAP Clients (Apache CXF), JMS (ActiveMQ), JMX, Apache Camel, Swagger, Java 8, Spring Boot
+**Environment:** Oracle 11G, Intellij Idea, Maven, Jenkins, A (ActiveMQ command-line client), Sonar, VisualVM, JConsole, Chef, Git(Bitbucket), AppDynamics, Rallly, Spring, Hibernate, REST Services and Clients (Spring MVC), SOAP Clients (Apache CXF), JMS (ActiveMQ), JMX, Apache Camel, Swagger, Java 8, Spring Boot
 
 #### Foundational
 
@@ -225,7 +225,7 @@
 
 - Pipelines Performance Tuning: Maven tuning, Git Clone tuning, Get rid of code generation.
 
-**Environment: **Intellij Idea, Maven, Jenkins, SonarQube, Git(Bitbucket), Rally, QC ALM, Jenkins Pipelines, Groovy, Spring Cloud Config, Bash Scripting, Markdown, Fortify Security Scans.
+**Environment:** Intellij Idea, Maven, Jenkins, SonarQube, Git(Bitbucket), Rally, QC ALM, Jenkins Pipelines, Groovy, Spring Cloud Config, Bash Scripting, Markdown, Fortify Security Scans.
 
 ### Touchlane
 
