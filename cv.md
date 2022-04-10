@@ -4,8 +4,6 @@
 
 **Date of Birth:** 31.01.1995
 
-**Nationality:** Belarus
-
 **Foreign language:** Upper-Intermediate B2
 
 ## Education
@@ -22,36 +20,38 @@
 
 ## Professional Skills
 
-**Languages:** Java 8-12, JS, Python 2, Bash
+**Languages:** 
+
+Java 8-17, JS, Python 2-3, Bash
 
 **Java Frameworks:** 
 
-- Spring Umbrella Projects (Spring Boot 2, Spring Data, Spring MVC, Spring JMS)
-- Spring Cloud Umbrella Projects (Spring Cloud Config, Netflix OSS(Eureka, Ribbon, Hystrix))
+- Spring Umbrella Projects (Spring Boot 2, Spring Data, Spring MVC, Spring WebFlux, Spring JMS)
+- Spring Cloud Umbrella Projects (Spring Cloud Config, Spring Cloud Function, Netflix OSS (Eureka, Ribbon, Hystrix))
 - ORMs (JPA & Hibernate, Spring Data JPA, Spring Data JDBC, Spring JDBC)
 - Build Tools (Gradle, Maven)
-- Other (Netty client & server, Project Reactor, JAX-RS & JAXWS with Apache CXF, Hazelcast, Redisson, Swagger)
+- Other (Netty client & server, Project Reactor, Lettuce, Swagger)
 
-**Databases:** Oracle 12c, MongoDB, DynamoDb, Redis
+**JS Frameworks:** 
 
-**JS Frameworks:** AngularJs, Yarn, Webpack
+AngularJs, Yarn, Webpack
 
-**DevOps:**
+**Infrastructure:**
 
-- AWS basics
-- Packer basics
-- Ansible basics
-- Cloudformation basics + Troposphere
+- Databases: Oracle 12c, DynamoDb, Redis, MongoDB
+- AWS services: EC2, ECS, Fargate, Lambda, S3, SNS/SQS
+- IAC: AWS CDK, Troposphere, Cloudformation
+- Packer + Ansible basics
 
 **Tools:**
 
-- Git, Github, Bitbucket, Gitlab
+- Git, Gitlab, Github, Bitbucket
 - Docker & Docker Compose
+- AWS Console & CLI
 - Jenkins Pipelines & Gitlab CI
 - Sonar Qube
 - VisualVM, MAT, JConsole
 - Postman
-- AWS Console & CLI
 - DBeaver
 - Intellij IDEA
 
@@ -272,7 +272,7 @@
 
 **Environment:** Java 12, Gradle, Spring Boot 2, Spring Cloud Config, Spring Boot Admin, Mapstruct, Lombok, Swagger, OpenAPI spec, Docker, Docker-compose, AWS, AWS Cloudformation, DynamoDB, OAuth2, OIDC, Troposhere, Packer, Ansible
 
-#### PSD2 Open Banking 
+#### PSD2 Open Banking
 
 *Development of PSD2 compliant Open Banking Platform for OP Baltics Customer*
 
@@ -280,7 +280,7 @@
 
 **Project Role:** Software Developer Team Leader
 
-**Period:** Sep-2019 - Now
+**Period:** Sep-2019 - Jan-2020
 
 **Tasks performed:**
 
@@ -290,4 +290,52 @@
 - Leading team of 3 developers
 
 **Environment:** Java 12, Spring Boot 2, Spring Cloud Config, Spring Boot Admin, Docker, Docker-compose, AWS, AWS Cloudformation, DynamoDB, OAuth2, OIDC, Troposhere, Packer, Ansible
+
+#### Gaimin Mining Platform
+
+* Greenfield development of smart mining platform for gamers that allowed mining of 5+ cryptocurrencies, cryptocurrency conversion, cryptotransfers, referral program, etc.
+
+**Customer**: Gaimin
+
+**Project Role:** Team/Tech Leader
+
+**Period:** Feb-2020 - Jan-2021
+
+**Tasks performed:**
+
+- Overall system design that included web app, desktop app & third-party integrations
+- Desktop app implementation (Electron + Angular 2+)
+- Multiple APIs and third-party integrations (such as Okta, crypto APIs) development (microservice architecture)
+- Setting up infrastructure in GCP including running 5+ cryptocurrencies nodes
+- Leading team of 5 developers
+- Project requirements negotiation with customer
+- Project development lifecycle management
+
+**Environment:** Java 11, Spring Boot 2, Spring MVC, Spring Data, MemSQL, OAuth2, JWT, Okta, GKE, GCF, Web3j, Electron, Angular 2+
+
+#### CaaS Payment Platform
+
+* Development of Card as a Service platform for banks and fintech companies.
+
+**Customer**: Enfuce
+
+**Project Role:** Team/Tech Leader, part of Architecture team
+
+**Period:** Feb-2020 - Now
+
+**Tasks performed:**
+
+- Greenfield design, implementation & support of multiple (10+) APIs (Card issuing, Transaction Posting, Account, Customer, Exchange Rates etc.)
+- Greenfield design, implementation & support of various "background jobs" as AWS Lambdas/AWS Batch (Fleet transaction posting, Clearing file parsing etc.)
+- Integration with [Way4 Payment Platform](https://www.openwaygroup.com/way4-payment-platform) via REST, SOAP APIs, SFTP file exchanges
+- Digital wallets integration (Apple/Google Pay)
+- Integration of Way4 ACS to support 3DS v1/v2 flows
+- Integration with HSMs, PKI handling.
+- Leading migration of infrastructure from AWS EC2 instances -> AWS ECS Fargate service
+- Implementation of a company-wide library in AWS CDK to have a common way of container deployment in Enfuce
+- Leading team of 5 developers
+- Participation of Enfuce-wide architecture team
+
+**Environment:** Java 17, Spring Boot 2, Spring Cloud Config, Spring MVC, Spring Webflux, Spring Data, Spring Cloud function, resilience4j, Oracle DB, Basic Auth, MTLS, AWS Cloudformation, AWS CDK, AWS SQS/SNS, AWS Lambda, AWS Batch, AWS DynamoDB, AWS S3, AWS API Gateway, Troposhere
+
 
